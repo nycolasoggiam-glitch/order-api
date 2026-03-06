@@ -1,4 +1,5 @@
 # Order API
+API desenvolvida como parte de desafio técnico.
 
 API desenvolvida em **Node.js** para gerenciamento de pedidos.
 
